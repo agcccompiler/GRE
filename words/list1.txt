@@ -1,0 +1,20 @@
+u1:
+    abate, abdicate, abet
+u2:
+    abiding, abject, abjure, abnegate, abominate, abrade, abridge, abrogate, abscission
+u3:
+    abscond, absolve, abstain, abstemious, abstruse
+u4:
+    abut, abysmal, accede, accolade
+u5:
+    accost, accrete, acerbic, acquiesce, acrid
+u6:
+    arimonious, addendum, adjourn
+u7:
+    ad-lib, admonish, adore, adulate, adulterate, adumberate, adventitious, advert
+u8:
+    affable, affidavit, affinity, aggravate
+u9:
+    agog, agonize, airtight, alacrity, albino
+u10: 
+    alchemy, alibi, alienate, allay, allegiance, alliterate, allude, allure 

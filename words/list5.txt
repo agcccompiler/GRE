@@ -1,0 +1,21 @@
+u1:
+    cherubic, chevron, chiaroscuro, chicanery, chide, choleric, choreography
+u2:
+    chorus, churl, cineast, cipher
+u3:
+    circumvent, clandestine, clarion
+u4:
+    clasp, cleft, clement, clique, cloture, clout
+u5:
+    cloying, coagulant, coalesce, coax, cogent
+u6:
+    colander, collude, coltish, comity
+u7:
+    commencement, commend, commingle, commensurate, commodious, commotion
+u8:
+    compendium, complacency, complaisance, compliant, compose
+u9:
+    compunction, concede, concerted, conciliate
+u10:
+    concur, condign, condole, condone
+    

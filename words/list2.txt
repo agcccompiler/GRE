@@ -1,0 +1,21 @@
+u1:
+    altruism（无私，利他主义）, amalgamate（合并，混合）, amble（缓行，漫步）, ambrosial（美味的，芳香的）, ameliorate（改善，改进）
+u2:
+    amenable（顺从的，服从的）, amenity（舒适，便利设施）, amiable（和蔼可亲的，友善的）, amicable（友好的，和平的）, amity（友好，和睦）, amulet（护身符）, analgesic（止痛的，止痛药）, anathema（极讨厌的人或事，诅咒）
+u3:
+    ancillary（辅助的，补充的）, anemic（贫血的，无活力的）, anesthetic（麻醉的，麻醉剂）, animus（敌意，憎恨）, annals（编年史，历史记载）, annul（废除，取消）, anomalous（异常的，反常的）
+u4:
+    antagonize（使对抗，激怒）, anthology（选集）, antic（滑稽可笑的，古怪的）, antidote（解毒剂，矫正方法）, aphorism（格言，警句）
+u5:
+    apocryphal（伪造的，假的）, apothasis（否定陈述法）, apoplectic（极度愤怒的）, apostasy（背教，变节）, apostrophe（撇号，呼语）, apothecary（药剂师）, appall（使惊骇，使恐怖）, apparel（服装）
+u6:
+    appellation（名称，称号）, apposite（适当的，相关的）, apprehension（忧虑，担心；理解）, apprise（通知，告知）, approbation（赞许，认可）, apron（围裙）
+u7:
+    apt（恰当的，聪明的）, ardor（热情，激情）, arduous（艰巨的，费力的）
+u8:
+    argot（行话，黑话）, ascendant（有影响力的，上升的）, ascetic（禁欲的，苦行的）, aseptic（无菌的，防腐的）
+u9:
+    askew（歪斜的）, asperity（严厉，粗暴）, aspersion（诽谤，中伤）, aspirant（有抱负者，志士）, assiduous（勤奋的，刻苦的）
+u10:
+    astringent（收敛的，严厉的）, astute（机敏的，精明的）, asunder（分离的，化为碎片的）, atone（赎罪，弥补）, atrocious（残暴的，极坏的）
+

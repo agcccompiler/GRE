@@ -1,20 +1,20 @@
 u1:
-    abate, abdicate, abet
+    abate（减轻）, abdicate（退位）, abet（教唆）
 u2:
-    abiding, abject, abjure, abnegate, abominate, abrade, abridge, abrogate, abscission
+    abiding（持久的）, abject（悲惨的）, abjure（发誓放弃）, abnegate（否认）, abominate（痛恨）, abrade（磨损）, abridge（缩短）, abrogate（废除）, abscission（切除）
 u3:
-    abscond, absolve, abstain, abstemious, abstruse
+    abscond（潜逃）, absolve（赦免）, abstain（戒除）, abstemious（有节制的）, abstruse（深奥的）
 u4:
-    abut, abysmal, accede, accolade
+    abut（邻接）, abysmal（极坏的）, accede（同意）, accolade（荣誉）
 u5:
-    accost, accrete, acerbic, acquiesce, acrid
+    accost（搭讪）, accrete（逐渐增长）, acerbic（尖刻的）, acquiesce（默许）, acrid（辛辣的）
 u6:
-    arimonious, addendum, adjourn
+    arimonious（讽刺的）, addendum（补遗）, adjourn（休会）
 u7:
-    ad-lib, admonish, adore, adulate, adulterate, adumberate, adventitious, advert
+    ad-lib（即兴的）, admonish（警告）, adore（崇拜）, adulate（谄媚）, adulterate（掺假）, adumberate（预示）, adventitious（偶然的）, advert（注意）
 u8:
-    affable, affidavit, affinity, aggravate
+    affable（和蔼的）, affidavit（宣誓书）, affinity（密切关系）, aggravate（加重）
 u9:
-    agog, agonize, airtight, alacrity, albino
+    agog（兴奋的）, agonize（感到极度痛苦）, airtight（密封的）, alacrity（敏捷）, albino（白化病者）
 u10: 
-    alchemy, alibi, alienate, allay, allegiance, alliterate, allude, allure 
+    alchemy（炼金术）, alibi（不在场证明）, alienate（疏远）, allay（减轻）, allegiance（忠诚）, alliterate（押头韵）, allude（暗指）, allure（吸引） 

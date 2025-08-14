@@ -1,0 +1,20 @@
+u1:
+    confound, congenial, congruent, connive, conscientious
+u2:
+    conservatory, console, conspicuous
+u3:
+    constitute, constringe, consummate, contentious, contiguout
+u4:
+    contort, contravene, contrite, contumacious, convalesce
+u5:
+    conversant, conviction, convoke, convoluted, convulsion, coop
+u6:
+    coquette, cord, cordon, cornucopia, corroborate, corrugated
+u7:
+    cosset, countenance, countermand, court, coven, covert, covetous, cow 
+u8:
+    cower, cozen, cramped, crass, craven, crease, credence, credulous
+u9:
+    creek, crescendo, crest, crestfallen, cronyism, crook, croon
+u10:
+    crumple, crutch, crux, culpable, cunning, curator 

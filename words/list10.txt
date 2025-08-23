@@ -1,20 +1,20 @@
 u1:
-    ennoble, ennui, ensconce, ensue, entice, entrap
 u2:
-    entreat, enunciate, epaulet, ephemeral, epicure, epidermis, epigram, epilogue
 u3:
-    epistemology, epitaph, epithet, epitomize, equable, equivocate, erode, errant
 u4:
-    erratic, erudite, eschew, esoteric, espouse, estrange, etch
 u5:
-    eulogize, euphemism, euphonious, euphoria, evanescent, evasive
 u6:
-    evince, evoke, ewe, exacerbate, exalt, exasperate
 u7:
-    excerpt, excoriate, excrete, excruciate, exculpate, excursive, execrate, exempt
 u8:
-    exhilarate, exhort, exigent, exodus, exonerate, exorbitant, expedite
 u9:
-    expedition, expiate, exponent, expurgate, extant, extemporize
 u10:
+    eulogize, euphemism, euphonious, euphoria, evanescent, evasive
     extenuate, extol, extort, extraction, extraneous, extravagant, extricate
+    entreat, enunciate, epaulet, ephemeral, epicure, epidermis, epigram, epilogue
+    exhilarate, exhort, exigent, exodus, exonerate, exorbitant, expedite
+    epistemology, epitaph, epithet, epitomize, equable, equivocate, erode, errant
+    expedition, expiate, exponent, expurgate, extant, extemporize
+    excerpt, excoriate, excrete, excruciate, exculpate, excursive, execrate, exempt
+    erratic, erudite, eschew, esoteric, espouse, estrange, etch
+    ennoble, ennui, ensconce, ensue, entice, entrap
+    evince, evoke, ewe, exacerbate, exalt, exasperate

@@ -1,20 +1,11 @@
-u1:
-    doldrums, dolorous, dolt, domicile, don, donor, doodle, dormant, dour
-u2:
-    douse, downplay, doyen, doze, draconian, drawl, drivel
-u3:
-    drizzle, droll, drone, drudgery, dubious, ductile, dulcet, dullard, dupe
-u4:
-    duplicity, dwindle, dyspeptic, dyslexia, earshot, earsplitting, easel
-u5:
-    eavesdrop, ebullient, eclat, ecumenical ,eddy, edifice
-u6:
-    efface, effervesce, effete, effluvium, effrontery, effulgence, effusive, egalitarian
-u7:
+
     elate, eleemosynary, elegy, elephantine, elevate, elicit, ellipsis, elliptical
-u8:
-    elucidate, emaciate, emancipate, embargo, embark, embezzle, embolden, emboss
-u9:
+    doldrums, dolorous, dolt, domicile, don, donor, doodle, dormant, dour
+    eavesdrop, ebullient, eclat, ecumenical ,eddy, edifice
     embroider, emollient, emulate, enamel, encomium, encompass
-u10:
+    efface, effervesce, effete, effluvium, effrontery, effulgence, effusive, egalitarian
+    elucidate, emaciate, emancipate, embargo, embark, embezzle, embolden, emboss
     encumber, endemic, enervate, enfranchise, engender, engross, enigma
+    duplicity, dwindle, dyspeptic, dyslexia, earshot, earsplitting, easel
+    drizzle, droll, drone, drudgery, dubious, ductile, dulcet, dullard, dupe
+    douse, downplay, doyen, doze, draconian, drawl, drivel

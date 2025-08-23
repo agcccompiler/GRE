@@ -1,20 +1,20 @@
 u1:
-    detract, detritus, devout, dew, dexterous, diaphanous, diatribe, didactic
 u2:
-    die, diehard, diffuse, digit, dilapidate, dilatory, dilettante
 u3:
-    diligent, din, dingy, diocesan, dire, dirge
 u4:
-    disabuse, disaffected, disavow, disciple, discombobulate, discomfit
 u5:
-    discommode, discompose, disconcert, discredit, discrepancy, discretion, discretionary
 u6:
-    discursive, disdain, disengage, disgorge, disgruntle, disinclination, disinfect, disjointed, disinter
 u7:
-    disjunctive, dismantle, dismay, disparate, dispassionate, dispatch, dispose
 u8:
-    dissect, dissemble, disseminate, dissension, dissent, dissipate, dissolute, dissonance, dissuade
 u9:
-    distain, distal, distend, distort, distraught, ditty, diurnal
 u10:
+    detract, detritus, devout, dew, dexterous, diaphanous, diatribe, didactic
+    disabuse, disaffected, disavow, disciple, discombobulate, discomfit
     divestiture, divulge, dodder, doff, dogged, doggerel, dogma
+    disjunctive, dismantle, dismay, disparate, dispassionate, dispatch, dispose
+    distain, distal, distend, distort, distraught, ditty, diurnal
+    diligent, din, dingy, diocesan, dire, dirge
+    die, diehard, diffuse, digit, dilapidate, dilatory, dilettante
+    discursive, disdain, disengage, disgorge, disgruntle, disinclination, disinfect, disjointed, disinter
+    dissect, dissemble, disseminate, dissension, dissent, dissipate, dissolute, dissonance, dissuade
+    discommode, discompose, disconcert, discredit, discrepancy, discretion, discretionary

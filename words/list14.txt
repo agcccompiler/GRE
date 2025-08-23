@@ -1,21 +1,20 @@
 u1:
-    husbandry（农事/管理）, husk（外壳/去壳）, husky（沙哑的/强壮的）, hymn（赞美诗）, hyperbole（夸张）, hypnotic（催眠的）
 u2:
-    ichthyologist（鱼类学家）, iconoclast（反传统者）, idolatrize（崇拜偶像）, idyll（田园诗/田园生活）, ignominy（耻辱）, illuminati（先觉者/智者）
 u3:
-    illusory（虚幻的）, imbibe（饮/吸收）, imbroglio（纠纷/混乱）, immaculate（洁净的/无瑕疵的）, immanent（内在的）, immaterial（无关紧要的/非物质的）, immemorial（久远的）
 u4:
-    immure（监禁）, imp（小恶魔/顽童）, impeccable（无可挑剔的）, impecunious（贫穷的）, impede（阻碍）, impend（即将发生）, impenitent（不悔悟的）
 u5:
-    imperative（必要的/命令）, imperious（专横的）, impertinent~impertinence（无礼的~无礼）, imperturbable（沉着冷静的）, impervious（不可渗透的/不受影响的）, impetuous（冲动的/鲁莽的）
 u6:
-    implety（不虔诚）, implacable（难以平息的）, imposing（壮观的/威严的）, importune（强求/纠缠）, imposter（冒名顶替者）, impotent（无力的/无能的）, impresario（经理人/主办者）
 u7:
-    impromptu~improvise（即兴的~即兴创作）, imprudent（轻率的）, impudent（无礼的）, impugn（指责/质疑）, impulssance（无力/虚弱）, imadvertent（疏忽的）, inalienable（不可剥夺的）, inane（空洞的/愚蠢的）, inanimate（无生命的）
 u8:
-    inaugurate（开始/为...举行就职典礼）, incandescent（白炽的/热情的）, incantation（咒语）, incarnate（化身/体现）, incendiary（纵火的/煽动的）, incense（香/激怒）, inception（开始）, incessant（不断的）, inch（英寸/慢慢移动）, inchoate（未成形的/早期的）
 u9:
-    incinerate（焚化）, incipient（初期的）, incite（煽动）, inclement（恶劣的/严酷的）, incogitant（不体贴的/轻率的）, inconsequential（不重要的）, incomtrovertible（无可争议的）, incorrigible（不可救药的）, incriminate（控告/牵连）
 u10:
-    incubator（孵化器）, inculpate（归罪于）, incursion（侵入）, indelible（难以去除的/不可磨灭的）, indemnity（赔偿/保障）, indict（起诉）, indigent（贫困的）
-
+    incinerate, incipient, incite, inclement, incogitant, inconsequential, incomtrovertible, incorrigible, incriminate
+    husbandry, husk, husky, hymn, hyperbole, hypnotic
+    implety, implacable, imposing, importune, imposter, impotent, impresario
+    illusory, imbibe, imbroglio, immaculate, immanent, immaterial, immemorial
+    inaugurate, incandescent, incantation, incarnate, incendiary, incense, inception, incessant, inch, inchoate
+    imperative, imperious, impertinent~impertinence, imperturbable, impervious, impetuous
+    immure, imp, impeccable, impecunious, impede, impend, impenitent
+    incubator, inculpate, incursion, indelible, indemnity, indict, indigent
+    ichthyologist, iconoclast, idolatrize, idyll, ignominy, illuminati
+    impromptu~improvise, imprudent, impudent, impugn, impulssance, imadvertent, inalienable, inane, inanimate

@@ -1,20 +1,20 @@
 u1:
-    attenuate（使减弱，变薄）, audacious（大胆的，鲁莽的）, augur（预示，预兆）, aver（断言，坚称）
 u2:
-    avid（渴望的，热切的）, avulse（撕脱，扯离）, awe（敬畏，惊惧）, awning（遮阳篷，雨篷）
 u3:
-    babble（含糊不清地说，喋喋不休）, backhanded（间接的，含沙射影的）, badger（不断纠缠，烦扰）, badinage（打趣，玩笑）, bale（灾祸，不幸）
 u4:
-    balky（倔强的，不合作的）, ballad（民谣，歌谣）, ballast（压舱物，稳定力量）, balm（安慰物，香膏）, banal（陈腐的，平庸的）, bane（祸根，灾星）, banish（驱逐，消除）, banister（楼梯扶手）
 u5:
-    banter（打趣，玩笑）, barb（尖刻的批评，倒钩）, barefaced（公然的，厚颜无耻的）, baroque（过分雕琢的，复杂的）, barren（贫瘠的，不结果实的）, barricade（障碍物，阻碍）, barter（以物易物，交换）
 u6:
-    baseboard（踢脚板，墙脚板）, bedeck（装饰，点缀）, belabor（喋喋不休，过分强调）, beleaguer（围攻，困扰）, belie（掩饰，证明为假）, bellwether（领导者，风向标）
 u7:
-    berate（严厉指责，痛斥）, beseech（恳求，乞求）, besmirch（玷污，诽谤）, bland（乏味的，温和的）, blase（厌倦享乐的，玩厌了的）
 u8:
-    blast（一阵风，爆炸，抨击）, blatant（显眼的，公然的）, blazon（公开宣布，装饰）, blemish（污点，瑕疵）, blight（枯萎，破坏因素）, blithe（无忧无虑的，漫不经心的）, blunt（迟钝的，直率的）
 u9:
-    blurb（简介，推荐语）, blurt（脱口而出）, bluster（咆哮，虚张声势）, boggle（犹豫，退缩，困惑）, boisterous（喧闹的，活跃的）, bolster（支持，增强）, bombast（夸大的言辞）
 u10:   
+    blast（一阵风，爆炸，抨击）, blatant（显眼的，公然的）, blazon（公开宣布，装饰）, blemish（污点，瑕疵）, blight（枯萎，破坏因素）, blithe（无忧无虑的，漫不经心的）, blunt（迟钝的，直率的）
+    baseboard（踢脚板，墙脚板）, bedeck（装饰，点缀）, belabor（喋喋不休，过分强调）, beleaguer（围攻，困扰）, belie（掩饰，证明为假）, bellwether（领导者，风向标）
+    attenuate（使减弱，变薄）, audacious（大胆的，鲁莽的）, augur（预示，预兆）, aver（断言，坚称）
+    babble（含糊不清地说，喋喋不休）, backhanded（间接的，含沙射影的）, badger（不断纠缠，烦扰）, badinage（打趣，玩笑）, bale（灾祸，不幸）
+    banter（打趣，玩笑）, barb（尖刻的批评，倒钩）, barefaced（公然的，厚颜无耻的）, baroque（过分雕琢的，复杂的）, barren（贫瘠的，不结果实的）, barricade（障碍物，阻碍）, barter（以物易物，交换）
     boon（恩惠，福利，好处）, bracing（令人振奋的，凉爽的）
+    avid（渴望的，热切的）, avulse（撕脱，扯离）, awe（敬畏，惊惧）, awning（遮阳篷，雨篷）
+    berate（严厉指责，痛斥）, beseech（恳求，乞求）, besmirch（玷污，诽谤）, bland（乏味的，温和的）, blase（厌倦享乐的，玩厌了的）
+    balky（倔强的，不合作的）, ballad（民谣，歌谣）, ballast（压舱物，稳定力量）, balm（安慰物，香膏）, banal（陈腐的，平庸的）, bane（祸根，灾星）, banish（驱逐，消除）, banister（楼梯扶手）
+    blurb（简介，推荐语）, blurt（脱口而出）, bluster（咆哮，虚张声势）, boggle（犹豫，退缩，困惑）, boisterous（喧闹的，活跃的）, bolster（支持，增强）, bombast（夸大的言辞）

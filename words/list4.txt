@@ -1,20 +1,20 @@
 u1:
-    brash, brassy, bravado, bravura, brazen, breach
 u2:
-    bridle, brisk, bristle, brittle, broach, bromide, brook, browbeat, bruit
 u3:
-    budge, buffoon, bumptious, bungle
 u4:
-    burlesque, burnish, cadge
 u5:
-    callow, calumniate, cameo
 u6:
-    canard, candor, canvass, caprice
 u7:
-    caret, caricature, carnal, carouse, carve
 u8:
-    castigate, caustic, caveat, cavern, cavil
 u9:
-    cavort, cede, cement, censorious, chagrin
 u10:
+    castigate, caustic, caveat, cavern, cavil
+    cavort, cede, cement, censorious, chagrin
+    burlesque, burnish, cadge
+    brash, brassy, bravado, bravura, brazen, breach
+    budge, buffoon, bumptious, bungle
     charade, chary, chase
+    bridle, brisk, bristle, brittle, broach, bromide, brook, browbeat, bruit
+    callow, calumniate, cameo
+    canard, candor, canvass, caprice
+    caret, caricature, carnal, carouse, carve

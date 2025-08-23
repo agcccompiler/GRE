@@ -1,0 +1,20 @@
+u1:
+u2:
+u3: 
+u4:
+u5:
+u6:
+u7:
+u8:
+u9:
+u10:
+    grandiloquent, grandlose, grandstand, grate, gratitous, gratify, gravel, green, gregarious
+    fracture, frail, fraudulent, fraught, frenzy, fresco, fretful
+    friable, frieze, frigid, fringe, frivolous, frond, frothy, frowsy, frugal
+    gerrymander, geyser, gibe, giddy, gild, girder, gist, glade, gladiator
+    glutinous, glutton, goad, gobble, goldbrick, gorge, gossamer, gourmand, gourmet
+    glaze, glib, glisten, gloat, gloomy, gloss, glossy, glut
+    garrulous, gash, gaudy, genial, genteel, germane
+    galley, galvanize, gambol, gangly, gangway, garble, gargantuan, garish, garment
+    fusty, gadfly, gadget, gaffe, gainsay, gait, gall, gallant
+    full-bodied, fulminate, fumble, furor, furtive, fussy

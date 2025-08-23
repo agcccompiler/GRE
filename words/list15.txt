@@ -1,21 +1,20 @@
 u1:
-    indolent（懒惰的）, inducement（诱因/刺激物）, indulgent（纵容的）, indurate（使硬化/冷酷的）, industriousness（勤奋）, ineffable（难以言表的）, ineluctable（不可避免的）, inept（无能的/不适当的）
 u2:
-    inexorable（不可阻挡的）, infamy（恶名）, infatuate（使迷恋）, inferno（地狱/大火）, infiltrate（渗透）, infirm（虚弱的）, inflame（激怒/使燃烧）, infelicitous（不幸的/不恰当的）
 u3:
-    influx（流入）, infuse（注入/灌输）, infuriate（激怒）, ingenuity（聪明才智）, ingenious（聪明的/有独创性的）, ingest（摄取/咽下）, ingrained（根深蒂固的）, ingrate（忘恩负义的人）, ingratiating（讨好的/谄媚的）
 u4:
-    inimical（有害的/敌意的）, inimitable（无法模仿的）, iniquity（邪恶/不公正）, inkling（暗示/略知）, innocuous（无害的）, inquisitive（好奇的/爱打听的）
 u5:
-    insensitive（麻木的/不敏感的）, insentient（无知觉的）, insipid（无味的/枯燥的）, insolent（无礼的）, insouciant（漫不经心的）, instate（任命/建立）, instigate（煽动/激起）, instill（逐渐灌输）
 u6:
-    insular（孤立的/岛屿的）, intangible（无形的/难以捉摸的）, intelligible（可理解的）, intemperate（无节制的/放纵的）
 u7:
-    inter（埋葬）, intercessor（调解人）, interdict（禁止/禁令）, interlock（连锁/互锁）, interminable（没完没了的）, intermittent（间歇的）, interregnum（空位期/过渡期）
 u8:
-    intransigent（不妥协的）, intrepid（无畏的）, inundate（淹没/泛滥）, inure（使习惯于）
 u9:
-    invective（辱骂）, inveigh（猛烈抨击）, inveigle（诱骗）, inveterate（根深蒂固的）, invidious（招人嫉妒的/不公平的）, invigorate（鼓舞/使有活力）, irascible（易怒的）
 u10:
-    irate（愤怒的）, iridescence（彩虹色/彩光）, irk（使厌烦）, ironclad（装铁甲的/坚不可摧的）, irradicable（不能根除的）, isthmus（地峡）
-
+    inimical, inimitable, iniquity, inkling, innocuous, inquisitive
+    intransigent, intrepid, inundate, inure
+    irate, iridescence, irk, ironclad, irradicable, isthmus
+    indolent, inducement, indulgent, indurate, industriousness, ineffable, ineluctable, inept
+    influx, infuse, infuriate, ingenuity, ingenious, ingest, ingrained, ingrate, ingratiating
+    insular, intangible, intelligible, intemperate
+    inter, intercessor, interdict, interlock, interminable, intermittent, interregnum
+    insensitive, insentient, insipid, insolent, insouciant, instate, instigate, instill
+    invective, inveigh, inveigle, inveterate, invidious, invigorate, irascible
+    inexorable, infamy, infatuate, inferno, infiltrate, infirm, inflame, infelicitous

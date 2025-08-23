@@ -1,20 +1,20 @@
 u1:
-    curmudgeon, cursory, curt, cynic, dabble, daft, daguerreotype, dais
 u2:
-    dally, dandy, dank, dapper, dappled, daredevil, dart, daunt, dawdle
 u3:
-    deadpan, debacle, debark, debase, debiliate, debunk, debut
 u4:
-    decant, decorum, decrepit, default, deference, deficiency
 u5:
-    defile, deft, defuse, defy, deject, deleterious
 u6:
-    delirium, deluge, delve, damagogue
 u7:
-    demoralize, demotic, demur, denigrate, denouement, dent, denude, deplete, deplore
 u8:
-    depose, depravity, deprecate, deprivation
 u9:
-    deracinate, derelict, deride, desecrate, desiccate, despicable
 u10:
+    delirium, deluge, delve, damagogue
+    depose, depravity, deprecate, deprivation
+    defile, deft, defuse, defy, deject, deleterious
     despotic, desultory, detain, deter, deterioration
+    deracinate, derelict, deride, desecrate, desiccate, despicable
+    deadpan, debacle, debark, debase, debiliate, debunk, debut
+    demoralize, demotic, demur, denigrate, denouement, dent, denude, deplete, deplore
+    decant, decorum, decrepit, default, deference, deficiency
+    curmudgeon, cursory, curt, cynic, dabble, daft, daguerreotype, dais
+    dally, dandy, dank, dapper, dappled, daredevil, dart, daunt, dawdle

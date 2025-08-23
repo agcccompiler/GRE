@@ -1,21 +1,20 @@
 u1:
-    grieve（悲伤）, grimace（鬼脸）, grin（笑容）, gripe（抱怨）, grisly（可怕的）, groove（沟槽）, grotesque（怪诞的）, grotto（洞穴）, grove（小树林）, grovel（卑躬屈膝）
 u2:
-    grueling（艰难的）, guarantee（保证）, guile（狡猾）, gullible（轻信的）, gully（小峡谷）, gum（口香糖/树胶）, gush（喷涌）, gust（一阵风）, guzzle（狂饮）
 u3:
-    hack（劈/老套文人）, hackneyed（陈腐的）, halcyon（平静的）, hale（健壮的）, half-backed（半生不熟的/不成熟的）, hallmark（标志）, hallow（神圣化）, hallucination（幻觉）, ham-handed（笨手笨脚的）
 u4:
-    hamstring（使无能为力/腿筋）, hangdog（羞愧的）, hanker（渴望）, haphazard（偶然的/无计划的）, harangue（长篇大论）, harbinger（先兆）, harbor（港口/怀有）
 u5:
-    hard-bitten（顽强的）, hardy（强壮的）, harness（利用/马具）, harp（竖琴/喋喋不休）, harrow（耙/使痛苦）, harry（不断骚扰）, hasten（加速）, hasty（匆忙的）
 u6:
-    haunt（常去/萦绕）, hauteur（傲慢）, haven（避风港）, havoc（大破坏）, headlong（鲁莽的）, hearken（倾听）, hearten（鼓励）, heartending（令人心碎的）, hedonism（享乐主义）
 u7:
-    hegemony（霸权）, heinous（极其恶劣的）, heirloom（传家宝）, hem（下摆/包围）, hew（砍/坚持）, herald（预兆/传令官）, herbicide（除草剂）, heresy~heretical（异端~异端的）
 u8:
-    hermetic（密封的/神秘的）, hermit（隐士）, herpetologist（爬虫学家）, heterodox~orthodox（非正统的~正统的）, hidebound（死板的）, hideous（丑陋的/可怕的）, hie（赶紧）, hieroglyph（象形文字）, hike（徒步旅行/提高）
 u9:
-    histrionic（做作的）, hive（蜂巢）, hoard（囤积）, hoary（古老的/灰白的）, hoax~coax（骗局~哄骗）, hodgepodge（大杂烩）, homage（敬意）, homely（其貌不扬的/朴素的）, homily（说教）
 u10:
-    hone（磨练/磨刀石）, honorarium（酬金）, hoodwink（欺骗）, hortative（激励的/劝告的）, horticulture（园艺学）, hovel（茅屋/简陋小屋）, hub（中心/枢纽）, hubris（傲慢/自大）
-
+    hamstring, hangdog, hanker, haphazard, harangue, harbinger, harbor
+    hard-bitten, hardy, harness, harp, harrow, harry, hasten, hasty
+    hone, honorarium, hoodwink, hortative, horticulture, hovel, hub, hubris
+    grueling, guarantee, guile, gullible, gully, gum, gush, gust, guzzle
+    haunt, hauteur, haven, havoc, headlong, hearken, hearten, heartending, hedonism
+    hegemony, heinous, heirloom, hem, hew, herald, herbicide, heresy, heretical
+    grieve, grimace, grin, gripe, grisly, groove, grotesque, grotto, grove, grovel
+    hermetic, hermit, herpetologist, heterodox, orthodox, hidebound, hideous, hie, hieroglyph, hike
+    histrionic, hive, hoard, hoary, hoax, coax, hodgepodge, homage, homely, homily
+    hack, hackneyed, halcyon, hale, half-backed, hallmark, hallow, hallucination, ham-handed
